@@ -1,0 +1,5 @@
+﻿  CSVAggregator.cpp
+c:\users\gabriel\documents\_spring 2018\bbe\csv aggregator\csv aggregator\csvaggregator.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabriel\documents\_spring 2018\bbe\csv aggregator\csv aggregator\csvaggregator.cpp(202): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CSV Aggregator.vcxproj -> C:\Users\Gabriel\Documents\_Spring 2018\BBE\CSV Aggregator\Debug\CSV Aggregator.exe
+  CSV Aggregator.vcxproj -> C:\Users\Gabriel\Documents\_Spring 2018\BBE\CSV Aggregator\Debug\CSV Aggregator.pdb (Partial PDB)

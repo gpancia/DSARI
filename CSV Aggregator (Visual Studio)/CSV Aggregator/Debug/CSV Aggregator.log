@@ -1,0 +1,2 @@
+﻿  CSVAggregator.cpp
+c:\users\gabriel\documents\_spring 2018\bbe\csv aggregator\csv aggregator\csvaggregator.cpp(14): fatal error C1041: cannot open program database 'C:\Users\Gabriel\Documents\_Spring 2018\BBE\CSV Aggregator\CSV Aggregator\Debug\vc141.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
